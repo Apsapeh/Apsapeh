@@ -2,7 +2,7 @@
 ###### 👋 Hi there, My name is Timofey Kirichenko
 ###### 👨‍🎓 ITMO University 2rd year student, CE
 
-🔭 I’m currently working on retro game engine HateEngine and virtual machine for a scripting languages NCVM
+🔭 I’m currently working on retro game engine HateEngine and virtual machine for a scripting languages NCVM<br>
 🌱 I’m currently learning 3D Graphics and Low-level programming
 
 
