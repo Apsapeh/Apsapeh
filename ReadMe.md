@@ -1,22 +1,37 @@
-# 💫 About Me:
-###### 👋 Hi there, My name is Timofey Kirichenko
-###### 👨‍🎓 ITMO University 2rd year student, CE
+# 👊 Wazzup, homie. I’m Timofey Kirichenko
 
-🔭 I’m currently working on retro game engine HateEngine and virtual machine for a scripting languages NCVM<br>
-🌱 I’m currently learning 3D Graphics and Low-level programming
+💉 Code drip runnin’ thru my veins, brain on that byte hustle — no games, just grindin’ and buildin’.  
 
-
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/apsapeh) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/timofeykirichenko) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Gaz_Prom) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=flat&logo=rust&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=flat&logo=opengl) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=flat&logo=gimp&logoColor=FFFFFF) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=flat&logo=blender&logoColor=white) ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=flat&logo=godot-engine) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Apsapeh&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Apsapeh&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Apsapeh&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+🎓 Reppin’ **ITMO**, 2nd year CE — while they stuck on them textbooks, I’m out here flippin’ code like fresh mixtapes, straight fire. 🎤🔥
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Apsapeh&icon=0&color=0)](https://visitcount.itsvg.in)
+
+### 🔥 What I'm Cookin'
+
+- **HateEngine** — Retro-style game engine throwin’ back to early 2000s vibes, but runnin’ clean on them new rigs too. Straight flex.  
+- **NCVM** — Custom VM I built from scratch, no shortcuts, no copy-paste — pure hustle and grind. 💀
+
+---
+
+### 🛠️ What I’m Grindin’ On
+
+- 💥 3D graphics — pushin’ pixels, droppin’ shaders, makin’ scenes pop like it’s hot 🔥  
+- ⚔️ Low-level kung fu — crackin’ opcodes, stackin’ memory bricks, keepin’ it raw and real 🧙‍♂️
+
+---
+
+> From dorm room dreams to real-deal schemes — this ain’t no joke, it’s the real come-up.  
+> 💻🎮 Byte flipper, memory hacker, digital hustla — stay woke, stay sharp, stay grindin’.  
+> **Real recognize real.** 👑
+
+
+
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=flat&logo=rust&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=flat&logo=opengl) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=flat&logo=blender&logoColor=white) ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=flat&logo=godot-engine) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white)
+---
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<p align="center">
+    <img src="fck-prcy-homies.PNG" alt="drawing" width="500" style="display: block; margin: 0 auto"/>
+</p>
